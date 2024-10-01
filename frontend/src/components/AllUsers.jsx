@@ -97,8 +97,8 @@ const AllUsers = () => {
                 <td className="border-b px-4 py-2">{user.phone}</td>
                 <td className="border-b px-4 py-2">{user.role}</td>
                 <td className="border-b px-4 py-2">{user.department}</td>
-                <td className="border-b px-4 py-2">{user.email}</td>
                 <td className="border-b px-4 py-2">{user.location}</td>
+                <td className="border-b px-4 py-2">{user.email}</td>
                 <td className="border-b px-4 py-2">
                   <button
                     className="bg-blue-500 text-white px-4 py-1 rounded hover:bg-blue-600"
